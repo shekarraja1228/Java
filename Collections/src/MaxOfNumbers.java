@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class maxOfNumbers {
+public class MaxOfNumbers {
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<>();
         numbers.add(5);
