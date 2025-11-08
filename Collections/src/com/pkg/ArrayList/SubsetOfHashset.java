@@ -1,3 +1,5 @@
+package com.pkg.ArrayList;
+
 import java.awt.datatransfer.StringSelection;
 import java.util.*;
 

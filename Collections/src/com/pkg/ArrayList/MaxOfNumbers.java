@@ -1,3 +1,5 @@
+package com.pkg.ArrayList;
+
 import java.util.*;
 
 public class MaxOfNumbers {

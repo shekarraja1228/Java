@@ -1,3 +1,5 @@
+package com.pkg.ArrayList;
+
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
