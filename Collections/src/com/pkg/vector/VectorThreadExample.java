@@ -1,4 +1,4 @@
-package com.pck.vector;
+package com.pkg.vector;
 
 import java.util.Vector;
 
